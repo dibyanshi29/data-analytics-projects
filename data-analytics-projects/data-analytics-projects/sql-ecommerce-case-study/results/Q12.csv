@@ -1,0 +1,6 @@
+coupon,orders,avg_basket_before_discount_inr,total_discount_inr,return_rate_pct
+No coupon,18194,6037.0,0.0,6.9
+SALE20,3875,6032.0,4674418.0,7.7
+FEST30,2159,6149.0,3982919.0,6.9
+FREESHIP,2119,5972.0,0.0,7.0
+FIRST10,1613,5982.0,964848.0,7.3

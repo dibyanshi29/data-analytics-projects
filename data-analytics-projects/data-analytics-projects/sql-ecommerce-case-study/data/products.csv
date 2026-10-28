@@ -1,0 +1,145 @@
+product_id,product_name,category,sub_category,list_price,unit_cost
+P0001,Vida Earbuds,Electronics,Earbuds,3169,1862
+P0002,Zest Earbuds,Electronics,Earbuds,2759,1781
+P0003,Orbit Earbuds,Electronics,Earbuds,1429,835
+P0004,Nova Smartwatch,Electronics,Smartwatch,3969,2598
+P0005,Urban Smartwatch,Electronics,Smartwatch,3919,2379
+P0006,Aura Smartwatch,Electronics,Smartwatch,3329,1880
+P0007,Urban Power bank,Electronics,Power bank,879,502
+P0008,Vida Power bank,Electronics,Power bank,3839,2322
+P0009,Terra Power bank,Electronics,Power bank,1659,981
+P0010,Nova Bluetooth speaker,Electronics,Bluetooth speaker,3139,1924
+P0011,Aura Bluetooth speaker,Electronics,Bluetooth speaker,2869,1638
+P0012,Kraft Bluetooth speaker,Electronics,Bluetooth speaker,4059,2211
+P0013,Nova Phone case,Electronics,Phone case,4879,3225
+P0014,Urban Phone case,Electronics,Phone case,4569,2526
+P0015,Orbit Phone case,Electronics,Phone case,4989,2814
+P0016,Orbit Charger,Electronics,Charger,4759,2571
+P0017,Urban Charger,Electronics,Charger,1099,713
+P0018,Kraft Charger,Electronics,Charger,3019,1656
+P0019,Urban Keyboard,Electronics,Keyboard,2889,1733
+P0020,Aura Keyboard,Electronics,Keyboard,4359,2573
+P0021,Orbit Keyboard,Electronics,Keyboard,4209,2474
+P0022,Nova Mouse,Electronics,Mouse,2829,1700
+P0023,Terra Mouse,Electronics,Mouse,4069,2638
+P0024,Urban Mouse,Electronics,Mouse,2019,1315
+P0025,Kraft Kurta,Fashion,Kurta,2109,1040
+P0026,Terra Kurta,Fashion,Kurta,2729,1374
+P0027,Nova Kurta,Fashion,Kurta,2779,1413
+P0028,Terra T-shirt,Fashion,T-shirt,2849,1173
+P0029,Terra T-shirt,Fashion,T-shirt,1149,542
+P0030,Orbit T-shirt,Fashion,T-shirt,589,269
+P0031,Nova Jeans,Fashion,Jeans,2159,1044
+P0032,Kraft Jeans,Fashion,Jeans,1519,726
+P0033,Nova Jeans,Fashion,Jeans,2449,1290
+P0034,Aura Saree,Fashion,Saree,2569,1134
+P0035,Zest Saree,Fashion,Saree,1429,570
+P0036,Lumo Saree,Fashion,Saree,1919,913
+P0037,Orbit Sneakers,Fashion,Sneakers,1779,895
+P0038,Zest Sneakers,Fashion,Sneakers,1769,963
+P0039,Aura Sneakers,Fashion,Sneakers,1969,992
+P0040,Urban Handbag,Fashion,Handbag,2119,975
+P0041,Terra Handbag,Fashion,Handbag,2979,1305
+P0042,Lumo Handbag,Fashion,Handbag,419,226
+P0043,Aura Sunglasses,Fashion,Sunglasses,1689,795
+P0044,Zest Sunglasses,Fashion,Sunglasses,1639,719
+P0045,Urban Sunglasses,Fashion,Sunglasses,2829,1555
+P0046,Terra Jacket,Fashion,Jacket,2029,1039
+P0047,Terra Jacket,Fashion,Jacket,1409,567
+P0048,Kraft Jacket,Fashion,Jacket,569,299
+P0049,Vida Cookware set,Home & Kitchen,Cookware set,2139,1087
+P0050,Urban Cookware set,Home & Kitchen,Cookware set,3819,1817
+P0051,Aura Cookware set,Home & Kitchen,Cookware set,3729,1879
+P0052,Urban Bedsheet,Home & Kitchen,Bedsheet,1939,1114
+P0053,Terra Bedsheet,Home & Kitchen,Bedsheet,3479,1768
+P0054,Nova Bedsheet,Home & Kitchen,Bedsheet,2909,1468
+P0055,Terra Water bottle,Home & Kitchen,Water bottle,3689,1982
+P0056,Kraft Water bottle,Home & Kitchen,Water bottle,1209,742
+P0057,Pulse Water bottle,Home & Kitchen,Water bottle,1149,599
+P0058,Aura Storage box,Home & Kitchen,Storage box,1629,957
+P0059,Orbit Storage box,Home & Kitchen,Storage box,749,457
+P0060,Vida Storage box,Home & Kitchen,Storage box,2389,1245
+P0061,Pulse Table lamp,Home & Kitchen,Table lamp,3829,1927
+P0062,Terra Table lamp,Home & Kitchen,Table lamp,829,486
+P0063,Pulse Table lamp,Home & Kitchen,Table lamp,3869,2221
+P0064,Vida Mixer grinder,Home & Kitchen,Mixer grinder,2279,1139
+P0065,Lumo Mixer grinder,Home & Kitchen,Mixer grinder,2649,1616
+P0066,Kraft Mixer grinder,Home & Kitchen,Mixer grinder,2019,1088
+P0067,Zest Cushion cover,Home & Kitchen,Cushion cover,2259,1355
+P0068,Kraft Cushion cover,Home & Kitchen,Cushion cover,3859,2099
+P0069,Urban Cushion cover,Home & Kitchen,Cushion cover,2769,1400
+P0070,Terra Dinner set,Home & Kitchen,Dinner set,1199,734
+P0071,Lumo Dinner set,Home & Kitchen,Dinner set,2559,1240
+P0072,Aura Dinner set,Home & Kitchen,Dinner set,3579,1752
+P0073,Pulse Face wash,Beauty,Face wash,419,142
+P0074,Vida Face wash,Beauty,Face wash,249,112
+P0075,Pulse Face wash,Beauty,Face wash,1259,612
+P0076,Lumo Moisturiser,Beauty,Moisturiser,1199,426
+P0077,Terra Moisturiser,Beauty,Moisturiser,1369,471
+P0078,Urban Moisturiser,Beauty,Moisturiser,1119,529
+P0079,Urban Lipstick,Beauty,Lipstick,309,151
+P0080,Aura Lipstick,Beauty,Lipstick,569,253
+P0081,Orbit Lipstick,Beauty,Lipstick,1489,513
+P0082,Zest Shampoo,Beauty,Shampoo,279,116
+P0083,Vida Shampoo,Beauty,Shampoo,1229,529
+P0084,Zest Shampoo,Beauty,Shampoo,849,289
+P0085,Pulse Perfume,Beauty,Perfume,1389,655
+P0086,Orbit Perfume,Beauty,Perfume,1259,529
+P0087,Nova Perfume,Beauty,Perfume,179,80
+P0088,Urban Sunscreen,Beauty,Sunscreen,1349,633
+P0089,Aura Sunscreen,Beauty,Sunscreen,369,120
+P0090,Terra Sunscreen,Beauty,Sunscreen,729,243
+P0091,Vida Hair oil,Beauty,Hair oil,529,260
+P0092,Vida Hair oil,Beauty,Hair oil,1389,617
+P0093,Vida Hair oil,Beauty,Hair oil,1419,537
+P0094,Terra Serum,Beauty,Serum,1279,568
+P0095,Pulse Serum,Beauty,Serum,1109,390
+P0096,Terra Serum,Beauty,Serum,1069,355
+P0097,Pulse Novel,Books & Stationery,Novel,909,468
+P0098,Urban Novel,Books & Stationery,Novel,949,467
+P0099,Urban Novel,Books & Stationery,Novel,919,531
+P0100,Lumo Notebook set,Books & Stationery,Notebook set,369,213
+P0101,Pulse Notebook set,Books & Stationery,Notebook set,119,59
+P0102,Urban Notebook set,Books & Stationery,Notebook set,969,489
+P0103,Nova Planner,Books & Stationery,Planner,979,466
+P0104,Lumo Planner,Books & Stationery,Planner,659,355
+P0105,Terra Planner,Books & Stationery,Planner,279,127
+P0106,Pulse Art kit,Books & Stationery,Art kit,949,441
+P0107,Lumo Art kit,Books & Stationery,Art kit,399,194
+P0108,Orbit Art kit,Books & Stationery,Art kit,579,275
+P0109,Vida Pen set,Books & Stationery,Pen set,609,364
+P0110,Nova Pen set,Books & Stationery,Pen set,349,195
+P0111,Pulse Pen set,Books & Stationery,Pen set,389,213
+P0112,Vida Self-help book,Books & Stationery,Self-help book,119,62
+P0113,Zest Self-help book,Books & Stationery,Self-help book,949,481
+P0114,Terra Self-help book,Books & Stationery,Self-help book,289,131
+P0115,Urban Cookbook,Books & Stationery,Cookbook,889,415
+P0116,Pulse Cookbook,Books & Stationery,Cookbook,199,98
+P0117,Nova Cookbook,Books & Stationery,Cookbook,399,191
+P0118,Kraft Desk organiser,Books & Stationery,Desk organiser,439,247
+P0119,Lumo Desk organiser,Books & Stationery,Desk organiser,969,457
+P0120,Zest Desk organiser,Books & Stationery,Desk organiser,679,358
+P0121,Kraft Yoga mat,Sports & Fitness,Yoga mat,1779,980
+P0122,Orbit Yoga mat,Sports & Fitness,Yoga mat,1399,818
+P0123,Orbit Yoga mat,Sports & Fitness,Yoga mat,939,521
+P0124,Pulse Dumbbells,Sports & Fitness,Dumbbells,999,583
+P0125,Urban Dumbbells,Sports & Fitness,Dumbbells,1009,521
+P0126,Zest Dumbbells,Sports & Fitness,Dumbbells,1649,1021
+P0127,Pulse Football,Sports & Fitness,Football,539,288
+P0128,Orbit Football,Sports & Fitness,Football,2819,1718
+P0129,Aura Football,Sports & Fitness,Football,1799,1033
+P0130,Lumo Cricket bat,Sports & Fitness,Cricket bat,1429,779
+P0131,Zest Cricket bat,Sports & Fitness,Cricket bat,2449,1296
+P0132,Orbit Cricket bat,Sports & Fitness,Cricket bat,819,457
+P0133,Aura Skipping rope,Sports & Fitness,Skipping rope,629,386
+P0134,Lumo Skipping rope,Sports & Fitness,Skipping rope,1169,657
+P0135,Orbit Skipping rope,Sports & Fitness,Skipping rope,1579,1000
+P0136,Vida Gym bag,Sports & Fitness,Gym bag,1579,974
+P0137,Orbit Gym bag,Sports & Fitness,Gym bag,679,355
+P0138,Kraft Gym bag,Sports & Fitness,Gym bag,2009,1218
+P0139,Zest Resistance bands,Sports & Fitness,Resistance bands,2359,1197
+P0140,Urban Resistance bands,Sports & Fitness,Resistance bands,2589,1605
+P0141,Zest Resistance bands,Sports & Fitness,Resistance bands,2049,1197
+P0142,Zest Water flask,Sports & Fitness,Water flask,1429,879
+P0143,Kraft Water flask,Sports & Fitness,Water flask,549,279
+P0144,Kraft Water flask,Sports & Fitness,Water flask,1479,913

@@ -1,0 +1,6 @@
+segment,customers,avg_days_since_last_order,avg_orders,revenue_inr,pct_of_revenue
+Champions,868,34.0,20.4,101451517.0,74.2
+At risk,728,140.0,4.3,17847201.0,13.1
+Lost,728,354.0,2.8,11942493.0,8.7
+Loyal,331,40.0,2.6,4031362.0,2.9
+New or promising,256,47.0,1.0,1476594.0,1.1
